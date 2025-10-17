@@ -6,7 +6,7 @@ Teorik bilgileri somut projelere dönüştürmek ve bu süreçte sürekli öğre
 
 ---
 
-## 🚀 Hakkımda
+## Hakkımda
 
  
 Üniversite hayatım boyunca çeşitli öğrenci kulüplerinde ve teknik topluluklarda
@@ -20,14 +20,14 @@ Bu deneyimler bana şunları kazandırdı:
   
 ---
 
-## 💡 Teknik Yetkinliklerim
+## Teknik Yetkinliklerim
 
-**💻 Diller ve Teknolojiler**
+**Diller ve Teknolojiler**
 - Python | Java | Dart | C# | R  
 - Flutter | Flask | OpenCV | PyTorch | scikit-learn  
 - Git & GitHub | RESTful API | HTML, CSS, JS (temel)  
 
-**🧠 İlgi Alanlarım**
+**İlgi Alanlarım**
 - Yapay Zeka ve Bilgisayarla Görü (Computer Vision)  
 - Mobil Uygulama Geliştirme  
 - Makine Öğrenmesi ve Veri Bilimi
@@ -35,24 +35,24 @@ Bu deneyimler bana şunları kazandırdı:
 
 ---
 
-## 📂 Öne Çıkan Projelerim
+## Öne Çıkan Projelerim
 
-### 🔹 [DetectPrice](https://github.com/muhametaliaslanhan/DetectPrice)
+###  [DetectPrice](https://github.com/muhametaliaslanhan/DetectPrice)
 Web kamerası üzerinden **gerçek zamanlı nesne tanıma** yapan ve tanınan nesnelere **tahmini fiyatlar** atayan bir yapay zeka projesi.  
 📷 YOLOv5 modeliyle nesne tespiti ve Flask tabanlı web arayüzüyle sonuç gösterimi içerir.
 
-### 🔹 [E-Posta Spam Filtresi](https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi)
+###  [E-Posta Spam Filtresi](https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi)
 Makine öğrenmesi algoritmalarıyla, gelen e-postaların **spam olup olmadığını yüksek doğrulukla sınıflandıran** sistem.  
 `scikit-learn` ile model eğitimi ve veri ön işleme aşamalarını içerir.
 
-### 🔹 [Hibrit Görüntü Filtresi (DLHF)](https://github.com/muhametaliaslanhan/Gauss-ve-Tuz-Biber-Fitreleme)
+###  [Hibrit Görüntü Filtresi (DLHF)](https://github.com/muhametaliaslanhan/Gauss-ve-Tuz-Biber-Fitreleme)
 **Gauss** ve **Tuz-Biber** filtreleme tekniklerini birleştirerek, görüntülerdeki gürültüyü azaltan **Dual Layer Hybrid Filter** yaklaşımı.  
 
-### 🔹 [Flutter Etkileşimli Mobil Uygulama](https://github.com/muhametaliaslanhan/Mobil_Programlama)
+###  [Flutter Etkileşimli Mobil Uygulama](https://github.com/muhametaliaslanhan/Mobil_Programlama)
 Kullanıcıların “beğen” veya “beğenme” gibi etkileşimlerde bulunabildiği, **Flutter & Dart** tabanlı mobil uygulama.  
 Kullanıcı dostu tasarımı ve performans optimizasyonuyla öne çıkar.
 
-### 🔹 [Kamera ile Gerçek Zamanlı Nesne Tanıma (YOLOv3 + OpenCV)](https://github.com/muhametaliaslanhan/kamera-ile-nesne-tanima)
+###  [Kamera ile Gerçek Zamanlı Nesne Tanıma (YOLOv3 + OpenCV)](https://github.com/muhametaliaslanhan/kamera-ile-nesne-tanima)
 Bu Python projesi, **YOLOv3 algoritması** ve **OpenCV** kütüphanesi kullanarak bilgisayar kamerası üzerinden **gerçek zamanlı nesne tanıma** işlemi gerçekleştirir.  
 
 YOLO (You Only Look Once), nesne algılama konusunda **en hızlı ve en verimli** algoritmalardan biridir.  
