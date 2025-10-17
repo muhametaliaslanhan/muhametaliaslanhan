@@ -1,22 +1,23 @@
-# 👋 Selam, ben Muhammet Ali
+# Merhabalar, ben Muhammet Ali Aslanhan
 
 🎓 Nevşehir Hacı Bektaş Veli Üniversitesi'nde **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim.  
-Teknolojiye olan ilgim yalnızca kod yazmakla sınırlı değil — **problemleri analiz edip, yenilikçi çözümler üretmek** benim için asıl motivasyon kaynağı.  
-
-Özellikle **Yapay Zeka**, **Makine Öğrenmesi** ve **Mobil Programlama** alanlarında kendimi geliştiriyorum.  
-Teorik bilgileri somut projelere dönüştürmek ve bu süreçte sürekli öğrenmek, kariyerimde ilerlemek istediğim ana eksen.
+ **Yapay Zeka**, **Makine Öğrenmesi**, **Web Programlama** ve **Mobil Programlama** alanlarında kendimi geliştiriyorum.  
+Teorik bilgileri somut projelere dönüştürmek ve bu süreçte sürekli öğrenmek, kariyerimde ilerlemek istiyorum.
 
 ---
 
 ## 🚀 Hakkımda
 
-Akademik hayatım boyunca yalnızca derslerle sınırlı kalmadım.  
-Çeşitli öğrenci kulüplerinde ve teknik topluluklarda **kurucu üye** ve **yönetim kurulu üyesi** olarak aktif görevler aldım.  
+ 
+Üniversite hayatım boyunca çeşitli öğrenci kulüplerinde ve teknik topluluklarda
+**kurucu üye** ve **yönetim kurulu üyesi** olarak aktif görevler aldım.  
 Bu deneyimler bana şunları kazandırdı:  
 - Takım içinde etkin iletişim,  
 - Proje yönetimi ve sorumluluk bilinci,  
-- Liderlik ve karar alma becerileri.  
-
+- Liderlik ve karar alma becerileri.
+- Ekip Çalışması
+- Organizasyon
+  
 ---
 
 ## 💡 Teknik Yetkinliklerim
@@ -29,7 +30,8 @@ Bu deneyimler bana şunları kazandırdı:
 **🧠 İlgi Alanlarım**
 - Yapay Zeka ve Bilgisayarla Görü (Computer Vision)  
 - Mobil Uygulama Geliştirme  
-- Makine Öğrenmesi ve Veri Bilimi  
+- Makine Öğrenmesi ve Veri Bilimi
+- Web Programlama
 
 ---
 
@@ -85,5 +87,3 @@ Bu proje, webcam üzerinden canlı görüntü alarak nesneleri kutular ve etiket
 - 📧 **maliaslanhan68@gmail.com**  
 
 ---
-
-⭐️ “Yapay zekayı yalnızca öğrenmek değil, onunla **fayda üreten projeler** geliştirmek istiyorum.”
