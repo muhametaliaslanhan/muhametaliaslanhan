@@ -60,14 +60,22 @@ Bu proje, webcam üzerinden canlı görüntü alarak nesneleri kutular ve etiket
 
 ## 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>
+<a href="https://github.com/muhametaliaslanhan">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
+</a>
+<a href="https://github.com/muhametaliaslanhan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&langs_count=8&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
+</a>
+
+<br>
+
+<a href="https://github.com/muhametaliaslanhan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" height="180px" />
+</a>
+
+</div>
 
 ---
 
