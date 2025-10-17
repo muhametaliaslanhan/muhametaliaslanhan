@@ -50,6 +50,12 @@ Makine öğrenmesi algoritmalarıyla, gelen e-postaların **spam olup olmadığ�
 Kullanıcıların “beğen” veya “beğenme” gibi etkileşimlerde bulunabildiği, **Flutter & Dart** tabanlı mobil uygulama.  
 Kullanıcı dostu tasarımı ve performans optimizasyonuyla öne çıkar.
 
+### 🔹 [Kamera ile Gerçek Zamanlı Nesne Tanıma (YOLOv3 + OpenCV)](https://github.com/muhametaliaslanhan/kamera-ile-nesne-tanima)
+Bu Python projesi, **YOLOv3 algoritması** ve **OpenCV** kütüphanesi kullanarak bilgisayar kamerası üzerinden **gerçek zamanlı nesne tanıma** işlemi gerçekleştirir.  
+
+YOLO (You Only Look Once), nesne algılama konusunda **en hızlı ve en verimli** algoritmalardan biridir.  
+Bu proje, webcam üzerinden canlı görüntü alarak nesneleri kutular ve etiketlerle işaretler.
+
 ---
 
 ## 📊 GitHub İstatistikleri
