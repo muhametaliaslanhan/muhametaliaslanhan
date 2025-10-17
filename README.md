@@ -1,65 +1,75 @@
-Selam, ben Muhammet Ali 👋
+# 👋 Selam, ben Muhammet Ali
 
-Ben, Nevşehir Hacı Bektaş Veli Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Teknolojiye ve problem çözmeye olan tutkum, beni özellikle Yapay Zeka, Makine Öğrenmesi ve Mobil Programlama alanlarında derinleşmeye itti. Amacım, öğrendiğim teorik bilgileri yenilikçi ve pratik projelere dönüştürmek.
+🎓 Nevşehir Hacı Bektaş Veli Üniversitesi'nde **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim.  
+Teknolojiye olan ilgim yalnızca kod yazmakla sınırlı değil — **problemleri analiz edip, yenilikçi çözümler üretmek** benim için asıl motivasyon kaynağı.  
 
-Üniversite hayatım boyunca sadece kod yazmakla kalmadım, aynı zamanda öğrenci kulüplerinde ve teknik topluluklarda aktif roller alarak takım çalışması ve liderlik yeteneklerimi geliştirdim.
+Özellikle **Yapay Zeka**, **Makine Öğrenmesi** ve **Mobil Programlama** alanlarında kendimi geliştiriyorum.  
+Teorik bilgileri somut projelere dönüştürmek ve bu süreçte sürekli öğrenmek, kariyerimde ilerlemek istediğim ana eksen.
 
-🚀 İlgi Alanlarım ve Yeteneklerim
+---
 
-Ana Odak Alanlarım:
+## 🚀 Hakkımda
 
-Yapay Zeka & Makine Öğrenmesi
+Akademik hayatım boyunca yalnızca derslerle sınırlı kalmadım.  
+Çeşitli öğrenci kulüplerinde ve teknik topluluklarda **kurucu üye** ve **yönetim kurulu üyesi** olarak aktif görevler aldım.  
+Bu deneyimler bana şunları kazandırdı:  
+- Takım içinde etkin iletişim,  
+- Proje yönetimi ve sorumluluk bilinci,  
+- Liderlik ve karar alma becerileri.  
 
-Mobil Uygulama Geliştirme (Flutter)
+---
 
-Görüntü İşleme
+## 💡 Teknik Yetkinliklerim
 
-Kullandığım Teknolojiler:
+**💻 Diller ve Teknolojiler**
+- Python | Java | Dart | C# | R  
+- Flutter | Flask | OpenCV | PyTorch | scikit-learn  
+- Git & GitHub | RESTful API | HTML, CSS, JS (temel)  
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" alt="Dart"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R"/>
+**🧠 İlgi Alanlarım**
+- Yapay Zeka ve Bilgisayarla Görü (Computer Vision)  
+- Mobil Uygulama Geliştirme  
+- Makine Öğrenmesi ve Veri Bilimi  
 
+---
 
+## 📂 Öne Çıkan Projelerim
 
+### 🔹 [DetectPrice](https://github.com/muhametaliaslanhan/DetectPrice)
+Web kamerası üzerinden **gerçek zamanlı nesne tanıma** yapan ve tanınan nesnelere **tahmini fiyatlar** atayan bir yapay zeka projesi.  
+📷 YOLOv5 modeliyle nesne tespiti ve Flask tabanlı web arayüzüyle sonuç gösterimi içerir.
 
+### 🔹 [E-Posta Spam Filtresi](https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi)
+Makine öğrenmesi algoritmalarıyla, gelen e-postaların **spam olup olmadığını yüksek doğrulukla sınıflandıran** sistem.  
+`scikit-learn` ile model eğitimi ve veri ön işleme aşamalarını içerir.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+### 🔹 [Hibrit Görüntü Filtresi (DLHF)](https://github.com/muhametaliaslanhan/Gauss-ve-Tuz-Biber-Fitreleme)
+**Gauss** ve **Tuz-Biber** filtreleme tekniklerini birleştirerek, görüntülerdeki gürültüyü azaltan **Dual Layer Hybrid Filter** yaklaşımı.  
+
+### 🔹 [Flutter Etkileşimli Mobil Uygulama](https://github.com/muhametaliaslanhan/Mobil_Programlama)
+Kullanıcıların “beğen” veya “beğenme” gibi etkileşimlerde bulunabildiği, **Flutter & Dart** tabanlı mobil uygulama.  
+Kullanıcı dostu tasarımı ve performans optimizasyonuyla öne çıkar.
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
-💻 Öne Çıkan Projelerim
-
-DetectPrice
-
-Web kamerası kullanarak gerçek zamanlı nesne tespiti yapan ve fiyatlandırma öneren bir yapay zeka projesi.
-
-E-Posta-Spam-mi-Ham-mi
-
-Makine öğrenmesi modelleri (Naive Bayes, SVM) kullanarak gelen e-postaları spam veya normal olarak sınıflandıran bir sistem.
-
-kamera-ile-nesne-tanima
-
-OpenCV kullanılarak hazırlanan, gerçek zamanlı nesne tanıma projesi.
-
-Gauss-ve-Tuz-Biber-Fitreleme
-
-Görüntülerdeki gürültüyü azaltmak ve netliği artırmak için geliştirilmiş hibrit bir görüntü işleme filtresi.
-
-Mobil_Programlama
-
-Beğen/Beğenme gibi interaktif özelliklere sahip, Dart ve Flutter ile geliştirilmiş bir mobil uygulama.
-
-📫 İletişim
-
-Projelerimle ilgili konuşmak, yeni fikirler üzerine beyin fırtınası yapmak veya sadece tanışmak isterseniz, aşağıdaki butonlardan bana her zaman ulaşabilirsiniz.
-
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammetaliaslanhan/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="muhammet-ali-aslanhan"/></a>
-<a href="mailto:maliaslanhan68@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="maliaslanhan68@gmail.com"/></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
+
+---
+
+## 📫 İletişim
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammetaliaslanhan/)  
+- 📧 **maliaslanhan68@gmail.com**  
+
+---
+
+⭐️ “Yapay zekayı yalnızca öğrenmek değil, onunla **fayda üreten projeler** geliştirmek istiyorum.”
