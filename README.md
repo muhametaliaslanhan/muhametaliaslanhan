@@ -1,23 +1,42 @@
+<!-- Dinamik ve Hareketli Banner -->
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:007ACC,100:005C99%26height%3D200%26section%3Dheader%26text%3DMuhammet%2520Ali%2520Aslanhan%26fontSize%3D55%26fontColor%3Dffffff%26animation%3DfadeIn" />
+</p>
+
+<!-- Sosyal Medya ve Ziyaretçi Sayacı -->
+
 <div align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/muhammet-ali-aslanhan-/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="muhammet-ali-aslanhan"/></a>
+<a href="mailto:maliaslanhan68@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="maliaslanhan68@gmail.com"/></a>
 
-Merhaba, ben Muhammet Ali Aslanhan 👋
 
-Bilgisayar Mühendisliği Öğrencisi | Yapay Zeka & Mobil Geliştirme Meraklısı
 
-<p>Yapay zeka, makine öğrenmesi ve mobil teknolojilerle fark yaratan projeler geliştirmeyi hedefliyorum.</p>
 
-<div>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/muhammet-ali-aslanhan-/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:maliaslanhan68@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+
+
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmuhametaliaslanhan%26label%3DProfil%2520Ziyaret%C3%A7isi%26color%3Dblueviolet%26style%3Dflat-square" alt="muhametaliaslanhan" />
 </div>
 
-</div>
+📊 GitHub İstatistiklerim
 
-🚀 Teknolojiler ve Araçlar
+<p align="center">
+<!-- Genel İstatistikler -->
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmuhametaliaslanhan%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub İstatistikleri" />
+<!-- En Çok Kullanılan Diller -->
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmuhametaliaslanhan%26layout%3Dcompact%26langs_count%3D8%26theme%3Dradical" alt="En Çok Kullanılan Diller" />
+</p>
+<p align="center">
+<!-- Katkı Serisi (Streak) -->
+<img width="98%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmuhametaliaslanhan%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" />
+</p>
+<p align="center">
+<!-- GitHub Ödülleri -->
+<img width="98%" src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dmuhametaliaslanhan%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" />
+</p>
+
+💻 Kullandığım Teknolojiler
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
@@ -30,50 +49,8 @@ Bilgisayar Mühendisliği Öğrencisi | Yapay Zeka & Mobil Geliştirme Meraklıs
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
 </p>
 
-💡 Öne Çıkan Projeler
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 DetectPrice: Nesne Tanıma ve Fiyatlandırma</h3>
-<p>Web kamerası aracılığıyla gerçek zamanlı olarak nesneleri tanıyan ve önceden belirlenmiş fiyatlarını ekranda gösteren bir yapay zeka projesi.</p>
-<p>
-<code>Python</code> <code>OpenCV</code> <code>YOLO</code> <code>Web</code>
-</p>
-<a href="https://www.google.com/search?q=https://github.com/muhametaliaslanhan/DetectPrice">➡️ Depoya Git</a>
-</td>
-<td width="50%" valign="top">
-<h3>📧 E-Posta Spam/Ham Sınıflandırma</h3>
-<p>Makine öğrenmesi modelleri (Naive Bayes, SVM) kullanarak gelen e-postaların spam olup olmadığını yüksek doğrulukla tespit eden bir sistem.</p>
-<p>
-<code>Python</code> <code>Scikit-learn</code> <code>NLP</code>
-</p>
-<a href="https://www.google.com/search?q=https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi">➡️ Depoya Git</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📱 Flutter Beğen/Beğenme Uygulaması</h3>
-<p>Flutter ve Dart kullanılarak geliştirilmiş, kullanıcıların içerikleri beğenip beğenmemesine olanak tanıyan basit ve şık bir mobil arayüz projesi.</p>
-<p>
-<code>Dart</code> <code>Flutter</code> <code>Mobil</code>
-</p>
-<a href="https://www.google.com/search?q=https://github.com/muhametaliaslanhan/Mobil_Programlama">➡️ Depoya Git</a>
-</td>
-<td width="50%" valign="top">
-<h3>🖼️ Görüntü Gürültü Filtreleme</h3>
-<p>Gauss ve Tuz-Biber gürültüsü eklenmiş görüntülerdeki bozulmaları azaltmak ve görüntü kalitesini artırmak için geliştirilmiş hibrit bir filtreleme algoritması.</p>
-<p>
-<code>Python</code> <code>OpenCV</code> <code>Görüntü İşleme</code>
-</p>
-<a href="https://www.google.com/search?q=https://github.com/muhametaliaslanhan/Gauss-ve-Tuz-Biber-Fitreleme">➡️ Depoya Git</a>
-</td>
-</tr>
-</table>
-
-📊 GitHub İstatistiklerim
+📈 Aktivite Grafiğim
 
 <p align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmuhametaliaslanhan%26show_icons%3Dtrue%26locale%3Dtr%26theme%3Dtokyonight" alt="GitHub İstatistikleri" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmuhametaliaslanhan%26layout%3Dcompact%26locale%3Dtr%26theme%3Dtokyonight" alt="En Çok Kullanılan Diller" />
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dmuhametaliaslanhan%26theme%3Dradical%26hide_border%3Dtrue%26area%3Dtrue" alt="Aktivite Grafiği"/>
 </p>
