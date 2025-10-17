@@ -14,13 +14,24 @@ Mobil Uygulama Geliştirme (Flutter)
 
 Görüntü İşleme
 
-Kullandığım Diller ve Teknolojiler:
+Kullandığım Teknolojiler:
 
-Diller: Python, Java, C#, Dart, R
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" alt="Dart"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R"/>
 
-Frameworkler & Kütüphaneler: Flutter, OpenCV, PyTorch
 
-Araçlar: Git, GitHub
+
+
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+</p>
 
 💻 Öne Çıkan Projelerim
 
