@@ -19,6 +19,22 @@
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmuhametaliaslanhan%26label%3DProfil%2520Ziyaret%C3%A7isi%26color%3Dblueviolet%26style%3Dflat-square" alt="muhametaliaslanhan" />
 </div>
 
+👋 Hakkımda
+
+<p align="center">
+Ben Muhammet Ali, Nevşehir Hacı Bektaş Veli Üniversitesi'nde Bilgisayar Mühendisliği okuyan, teknoloji tutkunu bir öğrenciyim. 
+
+
+
+
+Özellikle <b>Yapay Zeka</b>, <b>Makine Öğrenmesi</b> ve <b>Mobil Programlama</b> alanlarına odaklanarak yenilikçi çözümler geliştirmeye çalışıyorum. 
+
+
+
+
+Kod yazmak benim için bir problem çözme sanatı ve bu profilde bu sanatı nasıl icra ettiğimi görebilirsiniz.
+</p>
+
 📊 GitHub İstatistiklerim
 
 <p align="center">
