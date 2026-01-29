@@ -50,12 +50,12 @@ Kullanıcı deneyimi odaklı, interaktif özelliklere sahip **Flutter & Dart** t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&langs_count=8&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&theme=dark&hide_border=false" alt="Muhammet Ali's GitHub Stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="170px" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
 
 </div>
 
