@@ -50,12 +50,12 @@ Kullanıcı deneyimi odaklı, interaktif özelliklere sahip **Flutter & Dart** t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&theme=dark&hide_border=false" alt="Muhammet Ali's GitHub Stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&theme=tokyonight" alt="Muhammet Ali Stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=tokyonight" alt="GitHub Streak" height="170px" />
 
 </div>
 
