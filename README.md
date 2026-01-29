@@ -1,62 +1,48 @@
-# Merhabalar, ben Muhammet Ali Aslanhan
+# Merhabalar, ben Muhammet Ali Aslanhan 👋
 
-🎓 Nevşehir Hacı Bektaş Veli Üniversitesi'nde **Bilgisayar Mühendisliği 4. sınıf** öğrencisiyim.  
- **Yapay Zeka**, **Makine Öğrenmesi**, **Web Programlama** ve **Mobil Programlama** alanlarında kendimi geliştiriyorum.  
-Teorik bilgileri somut projelere dönüştürmek ve bu süreçte sürekli öğrenmek, kariyerimde ilerlemek istiyorum.
+🎓 **Nevşehir Hacı Bektaş Veli Üniversitesi** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
+🚀 **Yapay Zeka**, **Backend Geliştirme** ve **Mobil Programlama** alanlarına odaklanmış bir mühendis adayıyım. Teorik bilgiyi somut, ölçeklenebilir projelere dönüştürmek için sürekli öğrenmeye devam ediyorum.
 
 ---
 
-## Hakkımda
+## 👨‍💻 Hakkımda
 
- 
-Üniversite hayatım boyunca çeşitli öğrenci kulüplerinde ve teknik topluluklarda
-**kurucu üye** ve **yönetim kurulu üyesi** olarak aktif görevler aldım.  
-Bu deneyimler bana şunları kazandırdı:  
-- Takım içinde etkin iletişim,  
-- Proje yönetimi ve sorumluluk bilinci,  
-- Liderlik ve karar alma becerileri.
-- Ekip Çalışması
-- Organizasyon
-  
+Üniversite hayatım boyunca öğrenci kulüplerinde **kurucu üye** ve **yönetim kurulu üyesi** olarak aktif görevler aldım. Bu süreçler bana şunları kazandırdı:  
+- **Liderlik & Karar Alma:** Kriz anlarında hızlı ve etkili çözüm üretme.
+- **Proje Yönetimi:** Sorumluluk bilinciyle zamanı ve kaynakları verimli kullanma.
+- **Ekip Çalışması:** Multidisipliner ekiplerde uyumlu ve sonuç odaklı çalışma.
+
 ---
 
-## Teknik Yetkinliklerim
+## 🛠️ Teknik Yetkinliklerim
 
-**Diller ve Teknolojiler**
-- Python | Java | Dart | C# | R  
-- Flutter | Flask | OpenCV | PyTorch | scikit-learn  
-- Git & GitHub | RESTful API | HTML, CSS, JS (temel)  
+**Diller & Teknolojiler**
+- **Diller:** Python | Java | Dart | C# | R  
+- **Frameworks:** Spring Boot | Flutter | Flask | PyTorch | scikit-learn  
+- **Araçlar:** Git & GitHub | RESTful API | OpenCV | PostgreSQL | MySQL
 
 **İlgi Alanlarım**
-- Yapay Zeka ve Bilgisayarla Görü (Computer Vision)  
-- Mobil Uygulama Geliştirme  
-- Makine Öğrenmesi ve Veri Bilimi
-- Web Programlama
+- 🧠 Yapay Zeka ve Bilgisayarla Görü (Computer Vision)
+- ☕ Backend Geliştirme (Microservices & API Design)
+- 📱 Mobil Uygulama Geliştirme (Cross-platform)
+- 📊 Makine Öğrenmesi ve Veri Bilimi
 
 ---
 
-## Öne Çıkan Projelerim
+## 🌟 Öne Çıkan Projelerim
 
-###  [DetectPrice](https://github.com/muhametaliaslanhan/DetectPrice)
-Web kamerası üzerinden **gerçek zamanlı nesne tanıma** yapan ve tanınan nesnelere **tahmini fiyatlar** atayan bir yapay zeka projesi.  
-📷 YOLOv5 modeliyle nesne tespiti ve Flask tabanlı web arayüzüyle sonuç gösterimi içerir.
+### 🏪 [Techstore Backend](https://github.com/muhametaliaslanhan/Techstore-Backend)
+**Java & Spring Boot** kullanılarak geliştirilmiş, katmanlı mimariye (Layered Architecture) sahip bir e-ticaret yönetim sistemi. CRUD işlemleri ve API yönetimi odaklıdır.
 
-###  [E-Posta Spam Filtresi](https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi)
-Makine öğrenmesi algoritmalarıyla, gelen e-postaların **spam olup olmadığını yüksek doğrulukla sınıflandıran** sistem.  
-`scikit-learn` ile model eğitimi ve veri ön işleme aşamalarını içerir.
+### 🔍 [DetectPrice](https://github.com/muhametaliaslanhan/DetectPrice)
+Web kamerası üzerinden **gerçek zamanlı nesne tanıma** yapan ve tanınan nesnelere tahmini fiyatlar atayan bir YZ projesi.  
+📷 YOLOv5 modeli ve Flask web arayüzü içerir.
 
-###  [Hibrit Görüntü Filtresi (DLHF)](https://github.com/muhametaliaslanhan/Gauss-ve-Tuz-Biber-Fitreleme)
-**Gauss** ve **Tuz-Biber** filtreleme tekniklerini birleştirerek, görüntülerdeki gürültüyü azaltan **Dual Layer Hybrid Filter** yaklaşımı.  
+### 📧 [E-Posta Spam Filtresi](https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi)
+`scikit-learn` kullanılarak geliştirilen, e-postaları yüksek doğrulukla sınıflandıran ML modeli.
 
-###  [Flutter Etkileşimli Mobil Uygulama](https://github.com/muhametaliaslanhan/Mobil_Programlama)
-Kullanıcıların “beğen” veya “beğenme” gibi etkileşimlerde bulunabildiği, **Flutter & Dart** tabanlı mobil uygulama.  
-Kullanıcı dostu tasarımı ve performans optimizasyonuyla öne çıkar.
-
-###  [Kamera ile Gerçek Zamanlı Nesne Tanıma (YOLOv3 + OpenCV)](https://github.com/muhametaliaslanhan/kamera-ile-nesne-tanima)
-Bu Python projesi, **YOLOv3 algoritması** ve **OpenCV** kütüphanesi kullanarak bilgisayar kamerası üzerinden **gerçek zamanlı nesne tanıma** işlemi gerçekleştirir.  
-
-YOLO (You Only Look Once), nesne algılama konusunda **en hızlı ve en verimli** algoritmalardan biridir.  
-Bu proje, webcam üzerinden canlı görüntü alarak nesneleri kutular ve etiketlerle işaretler.
+### 📱 [Flutter Etkileşimli Mobil Uygulama](https://github.com/muhametaliaslanhan/Mobil_Programlama)
+Kullanıcı deneyimi odaklı, interaktif özelliklere sahip **Flutter & Dart** tabanlı mobil uygulama.
 
 ---
 
@@ -64,18 +50,12 @@ Bu proje, webcam üzerinden canlı görüntü alarak nesneleri kutular ve etiket
 
 <div align="center">
 
-<a href="https://github.com/muhametaliaslanhan">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
-</a>
-<a href="https://github.com/muhametaliaslanhan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&langs_count=8&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&langs_count=8&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="180px" />
 
 <br>
 
-<a href="https://github.com/muhametaliaslanhan">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" height="180px" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" height="180px" />
 
 </div>
 
@@ -84,6 +64,6 @@ Bu proje, webcam üzerinden canlı görüntü alarak nesneleri kutular ve etiket
 ## 📫 İletişim
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammetaliaslanhan/)  
-- 📧 **maliaslanhan68@gmail.com**  
+- 📧 **maliaslanhan68@gmail.com**
 
 ---
