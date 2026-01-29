@@ -41,23 +41,8 @@ Web kamerası üzerinden gerçek zamanlı nesne tanıma (YOLOv5) yaparak tanına
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&count_private=true&theme=react&cache_seconds=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=react&cache_seconds=1" alt="Top Langs" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=react&cache_seconds=1" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📬 İletişim
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammetaliaslanhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 <a href="mailto:maliaslanhan68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/muhametaliaslanhan/count.svg?" alt="visitors count" />
 </p>
