@@ -1,69 +1,63 @@
-# Merhabalar, ben Muhammet Ali Aslanhan 👋
+# 🚀 Merhaba, Ben Muhammet Ali Aslanhan
+### AI & Software Engineer Candidate | Java & Flutter Developer
 
-🎓 **Nevşehir Hacı Bektaş Veli Üniversitesi** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
-🚀 **Yapay Zeka**, **Backend Geliştirme** ve **Mobil Programlama** alanlarına odaklanmış bir mühendis adayıyım. Teorik bilgiyi somut, ölçeklenebilir projelere dönüştürmek için sürekli öğrenmeye devam ediyorum.
+Nevşehir Hacı Bektaş Veli Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kariyer hedefimi **Yapay Zeka ve Derin Öğrenme** teknolojileri üzerine kurarken, bu modelleri hayata geçirecek Backend ve Web teknolojilerinde de aktif projeler üretiyorum.
 
----
-
-## 👨‍💻 Hakkımda
-
-Üniversite hayatım boyunca öğrenci kulüplerinde **kurucu üye** ve **yönetim kurulu üyesi** olarak aktif görevler aldım. Bu süreçler bana şunları kazandırdı:  
-- **Liderlik & Karar Alma:** Kriz anlarında hızlı ve etkili çözüm üretme.
-- **Proje Yönetimi:** Sorumluluk bilinciyle zamanı ve kaynakları verimli kullanma.
-- **Ekip Çalışması:** Multidisipliner ekiplerde uyumlu ve sonuç odaklı çalışma.
+Şu an ana odağım olan bitirme projemde, **LSTM tabanlı** derin öğrenme modelleri geliştirerek mobil sağlık sistemleri üzerinde sensör verileriyle anomali tespiti gerçekleştiriyorum. Bu çalışmalarımın yanı sıra; **Spring Boot** ile profesyonel backend servis mimarileri inşa ediyor, **Flutter** ve modern web teknolojileriyle de bu sistemleri destekleyen kullanıcı dostu arayüzler geliştiriyorum.
 
 ---
 
-## 🛠️ Teknik Yetkinliklerim
+## 🛠️ Yetenekler & Teknolojiler
 
-**Diller & Teknolojiler**
-- **Diller:** Python | Java | Dart | C# | R  
-- **Frameworks:** Spring Boot | Flutter | Flask | PyTorch | scikit-learn  
-- **Araçlar:** Git & GitHub | RESTful API | OpenCV | PostgreSQL | MySQL
+### 🧠 Yapay Zeka & Veri Bilimi
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="lstm" width="40" height="40"/>&nbsp;
+</p>
 
-**İlgi Alanlarım**
-- 🧠 Yapay Zeka ve Bilgisayarla Görü (Computer Vision)
-- ☕ Backend Geliştirme (Microservices & API Design)
-- 📱 Mobil Uygulama Geliştirme (Cross-platform)
-- 📊 Makine Öğrenmesi ve Veri Bilimi
+### 💻 Backend & Mobil Geliştirme
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>&nbsp;
+</p>
 
 ---
 
-## 🌟 Öne Çıkan Projelerim
+## 📂 Öne Çıkan Projeler
 
-### 🏪 [Techstore Backend](https://github.com/muhametaliaslanhan/Techstore-Backend)
-**Java & Spring Boot** kullanılarak geliştirilmiş, katmanlı mimariye (Layered Architecture) sahip bir e-ticaret yönetim sistemi. CRUD işlemleri ve API yönetimi odaklıdır.
+### 🏪 [Techstore Backend API](https://github.com/muhametaliaslanhan/Techstore-backend)
+Java Spring Boot kullanılarak geliştirilmiş, katmanlı mimariye (Layered Architecture) sahip kapsamlı bir e-ticaret backend sistemi. PostgreSQL entegrasyonu, RESTful uç noktaları ve otomatik veri başlatma (seeding) özelliklerini içerir.
 
-### 🔍 [DetectPrice](https://github.com/muhametaliaslanhan/DetectPrice)
-Web kamerası üzerinden **gerçek zamanlı nesne tanıma** yapan ve tanınan nesnelere tahmini fiyatlar atayan bir YZ projesi.  
-📷 YOLOv5 modeli ve Flask web arayüzü içerir.
+### 🎯 [Talent Hunter - Mobil Karar Destek Sistemi](https://github.com/muhametaliaslanhan/Mobil_Programlama)
+Flutter & Dart ile geliştirilmiş, modern UI/UX prensiplerine sahip aday değerlendirme arayüzü. Dinamik filtreleme ve interaktif kart yapısı ile İK süreçlerini dijitalleştirmeyi amaçlar.
 
-### 📧 [E-Posta Spam Filtresi](https://github.com/muhametaliaslanhan/E-Posta-Spam-mi-Ham-mi)
-`scikit-learn` kullanılarak geliştirilen, e-postaları yüksek doğrulukla sınıflandıran ML modeli.
-
-### 📱 [Flutter Etkileşimli Mobil Uygulama](https://github.com/muhametaliaslanhan/Mobil_Programlama)
-Kullanıcı deneyimi odaklı, interaktif özelliklere sahip **Flutter & Dart** tabanlı mobil uygulama.
+### 🔍 [DetectPrice - Nesne Tanıma & Fiyatlandırma](https://github.com/muhametaliaslanhan/DetectPrice)
+Web kamerası üzerinden gerçek zamanlı nesne tanıma (YOLOv5) yaparak tanınan nesnelere tahmini fiyatlar atayan yapay zeka projesi. Flask web arayüzü ile entegre çalışır.
 
 ---
 
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&theme=dark&cache=1" alt="Muhammet Ali Stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=dark&cache=1" alt="Top Langs" height="170px" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=dark&cache=1" alt="GitHub Streak" height="170px" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=muhametaliaslanhan&show_icons=true&count_private=true&theme=react&cache_seconds=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhametaliaslanhan&layout=compact&theme=react&cache_seconds=1" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhametaliaslanhan&theme=react&cache_seconds=1" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📫 İletişim
+## 📬 İletişim
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammetaliaslanhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="mailto:maliaslanhan68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammetaliaslanhan/)  
-- 📧 **maliaslanhan68@gmail.com**
-
----
+<p align="center">
+  <img src="https://profile-counter.glitch.me/muhametaliaslanhan/count.svg?" alt="visitors count" />
+</p>
