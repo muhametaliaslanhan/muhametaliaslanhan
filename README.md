@@ -1,4 +1,4 @@
-# 🚀 Merhaba, Ben Muhammet Ali Aslanhan
+#  Merhaba, Ben Muhammet Ali Aslanhan
 ### AI & Software Engineer Candidate | Java & Flutter Developer
 
 Nevşehir Hacı Bektaş Veli Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kariyer hedefimi **Yapay Zeka ve Derin Öğrenme** teknolojileri üzerine kurarken, bu modelleri hayata geçirecek Backend ve Web teknolojilerinde de aktif projeler üretiyorum.
