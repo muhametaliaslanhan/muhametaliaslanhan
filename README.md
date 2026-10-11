@@ -39,6 +39,12 @@ Flutter & Dart ile geliştirilmiş, modern UI/UX prensiplerine sahip aday değer
 ### 🔍 [DetectPrice - Nesne Tanıma & Fiyatlandırma](https://github.com/muhametaliaslanhan/DetectPrice)
 Web kamerası üzerinden gerçek zamanlı nesne tanıma (YOLOv5) yaparak tanınan nesnelere tahmini fiyatlar atayan yapay zeka projesi. Flask web arayüzü ile entegre çalışır.
 
+### ⚡ [Aemot Vertex Yönetim Paneli](https://github.com/muhametaliaslanhan/Aemot_Vertex_Yonetim_Paneli)
+Python ve PyQt6 kullanılarak geliştirilen, üretim planlama süreçlerini optimize eden masaüstü otomasyon uygulaması. Akıllı sıra no analizi, ağ tabanlı güvenli dosya yönetimi ve Random Forest destekli ürün ağacı (BOM) tahmini içerir.
+
+### 💓 [LSTM Tabanlı Mobil Sağlık Sistemi](https://github.com/muhametaliaslanhan/LSTM-Tabanli-Mobil-Saglik-Sistemi-ile-Aktivite-Dusme-ve-Kardiyak-Aritmi-Tespiti)
+Akıllı saat ve telefon sensör akışlarını kullanarak gerçek zamanlı aktivite tanıma, düşme tespiti ve kardiyak aritmi takibi yapan mobil sağlık izleme sistemi. LSTM derin öğrenme modelleri, TFLite ve Flutter entegrasyonuyla geliştirilmiştir.
+
 ---
 
 ## 📬 İletişim
