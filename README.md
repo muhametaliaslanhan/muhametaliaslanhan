@@ -1,9 +1,10 @@
-#  Merhaba, Ben Muhammet Ali Aslanhan
+# Merhaba, Ben Muhammet Ali Aslanhan
+
 ### AI & Software Engineer Candidate | Java & Flutter Developer
 
-Nevşehir Hacı Bektaş Veli Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kariyer hedefimi **Yapay Zeka ve Derin Öğrenme** teknolojileri üzerine kurarken, bu modelleri hayata geçirecek Backend ve Web teknolojilerinde de aktif projeler üretiyorum.
+Nevşehir Hacı Bektaş Veli Üniversitesi Bilgisayar Mühendisliği mezunuyum. Kariyer hedefimi **Yapay Zeka ve Derin Öğrenme** teknolojileri üzerine kurarken, bu modelleri hayata geçirecek sağlam **Backend, Web Teknolojileri ve Web Scraping** altyapıları inşa ediyor, aktif projeler üretiyorum.
 
-Şu an ana odağım olan bitirme projemde, **LSTM tabanlı** derin öğrenme modelleri geliştirerek mobil sağlık sistemleri üzerinde sensör verileriyle anomali tespiti gerçekleştiriyorum. Bu çalışmalarımın yanı sıra; **Spring Boot** ile profesyonel backend servis mimarileri inşa ediyor, **Flutter** ve modern web teknolojileriyle de bu sistemleri destekleyen kullanıcı dostu arayüzler geliştiriyorum.
+Şu ana kadar geliştirdiğim projelerde; saf Java ve JDBC ile katmanlı mimariler kurmaktan, zaman serisi verileriyle çalışan derin öğrenme modellerine kadar geniş bir yelpazede pratik yapma fırsatı buldum. Bunun yanı sıra; **Spring Boot** ile kurumsal backend servisleri tasarlıyor, modern web verilerini toplamak ve işlemek için **Web Scraping** teknolojileri üzerine yoğunlaşıyor ve **Flutter** ile bu sistemleri destekleyen kullanıcı dostu arayüzler geliştiriyorum.
 
 ---
 
